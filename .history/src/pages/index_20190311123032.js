@@ -9,7 +9,6 @@ const IndexPage = () => (
     <SEO title="Hello Anton" keywords={[`antonstepan`,]} />
     <h1>Hello people</h1>
     <p>How's it going?</p>
-    <p>This will be done soon.</p>
   </Layout>
 )
 
