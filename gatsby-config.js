@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `helloanton.xyz`,
+    title: `anton stepan`,
     description: ``,
     author: `antonstepan`,
   },
@@ -18,13 +18,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `antonstepan personal website`,
+        short_name: `antonstepan`,
         start_url: `/`,
         background_color: `#212d2d`,
         theme_color: `#212d2d`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        // icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
     {

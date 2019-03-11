@@ -1,15 +1,21 @@
 import React from "react"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
     <SEO title="Hello Anton" keywords={[`antonstepan`,]} />
-    <h1>Hello people</h1>
-    <p>How's it going?</p>
-    <p>This will be done soon.</p>
+    <div style={{
+      alignItems: `center`,
+      display: `flex`,
+      flexDirection: `column`,
+    }}>
+      <h1 style={{
+        color: 'black'
+      }}>Anton Stepan</h1>
+      <span>How's it going?</span>
+    </div>
   </Layout>
 )
 
