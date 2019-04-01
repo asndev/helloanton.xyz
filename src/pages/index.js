@@ -31,10 +31,10 @@ const IndexPage = () => (
       }}>Anton Stepan</h1>
       <span>How's it going?</span>
       <p style={{marginTop: `10px`}}>
-        <a style={{...linkStyle, color: getColor()}} href="" target="_blank">INSTAGRAM</a>
-        <a style={{...linkStyle, color: getColor()}} href="" target="_blank">TWITTER</a>
-        <a style={{...linkStyle, color: getColor()}} href="" target="_blank">LINKED IN</a>
-        <a style={{...linkStyle, color: getColor()}} href="" target="_blank">FACEBOOK</a>
+        <a style={{...linkStyle, color: getColor()}} href="https://www.instagram.com/helloanton.xyz/" target="_blank">INSTAGRAM</a>
+        <a style={{...linkStyle, color: getColor()}} href="https://twitter.com/asndev" target="_blank">TWITTER</a>
+        <a style={{...linkStyle, color: getColor()}} href="https://www.linkedin.com/in/antonstepan/" target="_blank">LINKED IN</a>
+        <a style={{...linkStyle, color: getColor()}} href="https://www.facebook.com/anton.stepan" target="_blank">FACEBOOK</a>
       </p>
     </div>
   </Layout>
