@@ -35,6 +35,7 @@ const IndexPage = () => (
         <a style={{...linkStyle, color: getColor()}} href="https://twitter.com/asndev" target="_blank">TWITTER</a>
         <a style={{...linkStyle, color: getColor()}} href="https://www.linkedin.com/in/antonstepan/" target="_blank">LINKEDIN</a>
         <a style={{...linkStyle, color: getColor()}} href="https://www.facebook.com/anton.stepan" target="_blank">FACEBOOK</a>
+        <a style={{...linkStyle, color: getColor()}} href="https://github.com/asndev" target="_blank">GITHUB</a>
       </p>
     </div>
   </Layout>
